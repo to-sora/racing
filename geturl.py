@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 from selenium import webdriver
 import os
 import numpy as np
-
+## get data for specific range of date
 driver = webdriver.Chrome()
 x=datetime(2014,12,29)#YMD
 x.strftime("%Y/%m/%d")
@@ -71,7 +71,7 @@ def getrace(url,foder='data',all=False):
     np.save(f"race2/{no_ofh}_{Day}{Month}{Year}_{venue}_{raceid}",result)
     return len(data)
 
-venue='ST'
+venue='ST' # venue of ST or HV (two place for hourse racing)
 print(venue)
 for i in range(365*4):
 

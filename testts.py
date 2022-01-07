@@ -1,4 +1,7 @@
 import tensorflow as tf
+
+
+# test the ability of tf demo
 print("TensorFlow version:", tf.__version__)
 mnist = tf.keras.datasets.mnist
 

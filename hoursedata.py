@@ -27,15 +27,11 @@ linklist=['https://racing.hkjc.com/racing/information/chinese/Horse/Horse.aspx?H
 import sys
 import traceback
 
-def saveh(object):
-    pass
-
-def loadf(name):
-    pass
 
 
 
 def url_to_file(url, driver=None,debugprint=False,folder='data'):
+    #get hourse URL and save it in folder
     pos1 = url.find('_', 1)
     id = url[pos1 + 1:pos1 + 10]
 
@@ -91,6 +87,8 @@ def url_to_file(url, driver=None,debugprint=False,folder='data'):
     np.save(f"{folder}/{id}",result)
 
 def reget(links,node,foder='data'):
+    # get a list of hourse link call url_to_file by recursing number of node
+    # use recurse in case of error
     option=Options()
     option.headless=True
     driver = webdriver.Chrome(options=option)

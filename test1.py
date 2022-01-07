@@ -6,7 +6,7 @@ NoofData=6
 print("TensorFlow version:", tf.__version__)
 physical_devices = tf.config.list_physical_devices('GPU')
 print("Num GPUs :", len(physical_devices))
-
+#load data
 MainF=np.load(f"{NoofHource}_{NoofData}_F.npy",allow_pickle=True)
 LMain=len(MainF)
 print(int(LMain*0.8))
@@ -22,7 +22,7 @@ print(len(MainF))
 
 
 
-
+# normalization of data input in train and test
 NtrainingI=np.zeros((len(trainingI),NoofHource+1,NoofData,7),dtype=float)
 
 for i in range(len(NtrainingI)):

@@ -2,6 +2,7 @@ import tensorflow as tf
 import numpy as np
 NoofHource=12
 NoofData=3
+# clone of test1 bt testing different variable
 
 print("TensorFlow version:", tf.__version__)
 physical_devices = tf.config.list_physical_devices('GPU')

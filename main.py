@@ -5,8 +5,11 @@ import numpy as np
 import datetime
 # main
 import random
-
-
+# read data and organize data in directory to generate final.npy file
+racefoder='race2'
+datafoder= 'data3'
+No_of_hourse=12
+required_data_no=3
 def strdate_to_date(inpuydate):
     inpuydate = str(inpuydate)
     length = len(str(inpuydate))
@@ -35,10 +38,7 @@ def fsecond_to_ltime(itime):
     return output
 
 
-racefoder='race2'
-datafoder= 'data3'
-No_of_hourse=12
-required_data_no=3
+
 file_list_race=[x if int(No_of_hourse)== int(x[0:2]) else '' for x in os.listdir(racefoder)]
 file_list_race=list(filter(None,file_list_race))
 print(list(file_list_race))
