@@ -1,0 +1,544 @@
+1641217996451	geckodriver	INFO	Listening on 127.0.0.1:53161
+1641218040840	geckodriver	INFO	Listening on 127.0.0.1:53192
+1641218133785	geckodriver	INFO	Listening on 127.0.0.1:53301
+1641218136835	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53302" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilerXUExH"
+1641218137375	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilerXUExH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53302/devtools/browser/3ef94f62-6201-462d-84ec-077944386717
+1641218138913	Marionette	INFO	Listening on port 53307
+1641218139115	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1641218861026	Marionette	INFO	Stopped listening on port 53307
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+a-51df-4c68-b9a9-3f296cf44c5f
+1641218146525	Marionette	INFO	Listening on port 53399
+1641218146688	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scri1641218150215	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53432" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1641218861319	Marionette	INFO	Stopped listening on port 53399
+\AppData\\Local\\Temp\\rust_mozprofileDvi36p\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53432/devtools/browser/b0a95ad1-59af-4ae0-aa9a-1f339a858eea
+1641218152007	Marionette	INFO	Listening on port 53487
+1641218152262	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1641218861313	Marionette	INFO	Stopped listening on port 53487
+ "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile8yrpgd"
+1641218179865	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile8yrpgd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53565/devtools/browser/947f3a78-bcfc-454d-b4d6-413ff8e7c3b1
+1641218181437	Marionette	INFO	Listening on port 53570
+1641218181672	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1641218860881	Marionette	INFO	Stopped listening on port 53570
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53636/devtools/browser/c83b90ef-c230-4813-9361-983e12360c4b
+1641218187988	Marionette	INFO	Listening on port 53657
+1641218188128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scri1641218191519	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53689" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1641218861319	Marionette	INFO	Stopped listening on port 53657
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+INFO	Listening on port 53741
+1641218193572	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1641218861022	Marionette	INFO	Stopped listening on port 53741
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54074/devtools/browser/dbd97eab-0410-45a9-9134-867c4ab474e3
+1641218624118	Marionette	INFO	Listening on port 54079
+1641218624451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1641218861317	Marionette	INFO	Stopped listening on port 54079
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\User\AppData\Local\Temp\rust_mozprofileyJMgxe\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Tools listening on ws://localhost:54142/devtools/browser/b0086afc-87da-4733-b4b5-c362a00cea5e
+1641218630473	Marionette	INFO	Listening on port 54164
+1641218630768	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1641218860927	Marionette	INFO	Stopped listening on port 54164
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+r\\AppData\\Local\\Temp\\rust_mozprofilef4DppP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54229/devtools/browser/18473642-391f-4545-99b4-2d9baa7af5dd
+1641218636764	Marionette	INFO	Listening on port 54250
+1641218637025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1641218861150	Marionette	INFO	Stopped listening on port 54250
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileFTSRa6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54382/devtools/browser/51bd6c84-4843-4880-99d5-dfd8331cf151
+1641218745968	Marionette	INFO	Listening on port 54390
+1641218746167	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1641218861314	Marionette	INFO	Stopped listening on port 54390
+1218750290	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54449" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile3LjrBC"
+1641218750579	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile3LjrBC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54449/devtools/browser/ecdf23d9-aee3-4176-8743-91446cd69209
+1641218752158	Marionette	INFO	Listening on port 54475
+1641218752321	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1641218861058	Marionette	INFO	Stopped listening on port 54475
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ocal\\Temp\\rust_mozprofile8tYQ8r"
+1641218756622	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile8tYQ8r\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54541/devtools/browser/4b147083-4f10-4c76-9177-b71bfcdd53ee
+1641218758087	Marionette	INFO	Listening on port 54563
+1641218758442	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1641218861078	Marionette	INFO	Stopped listening on port 54563
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileWWTQd9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54654/devtools/browser/92620e4a-7e02-465a-a485-1246fa710237
+1641218830026	Marionette	INFO	Listening on port 54659
+1641218830297	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1641218861040	Marionette	INFO	Stopped listening on port 54659
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+er\\AppData\\Local\\Temp\\rust_mozprofileEy4EGs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54735/devtools/browser/f5bbed42-f182-43d5-8002-480b9d310f1b
+1641218838420	Marionette	INFO	Listening on port 54744
+1641218838696	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1641218861112	Marionette	INFO	Stopped listening on port 54744
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+er\\AppData\\Local\\Temp\\rust_mozprofilecqrMDm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54818/devtools/browser/58b20000-ebd0-4327-835d-c087a6bc3f3a
+1641218846364	Marionette	INFO	Listening on port 54834
+1641218846652	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1641218861315	Marionette	INFO	Stopped listening on port 54834
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641219149370	geckodriver	INFO	Listening on 127.0.0.1:55053
+1641219152441	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55054" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilePD9h0p"
+1641219152658	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilePD9h0p\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55054/devtools/browser/59cac6c9-cd90-4da4-ac32-58de724ac768
+1641219154251	Marionette	INFO	Listening on port 55059
+1641219154487	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1641219260809	Marionette	INFO	Stopped listening on port 55059
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+zprofileE3nIjQ"
+1641219158874	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileE3nIjQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55117/devtools/browser/0cdaa65b-1221-417b-8f38-ca57dd127046
+1641219160413	Marionette	INFO	Listening on port 55142
+1641219160683	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1641219259848	Marionette	INFO	Stopped listening on port 55141641219260675	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55234" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileOHKn4e"
+1641219260971	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileOHKn4e\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55234/devtools/browser/279eeb9f-2bc6-4f80-b91d-f9ab3019b681
+1641219262432	Marionette	INFO	Listening on port 55241
+1641219262746	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1641219263670	Marionette	INFO	Stopped listening on port 55241
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641219264170	geckodriver	INFO	Listening on 127.0.0.1:55303
+1641219267271	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55304" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile6NCYR9"
+1641219267489	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile6NCYR9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55304/devtools/browser/12bbd0c5-b38c-42dd-b3e7-220eb3f0c260
+1641219268949	Marionette	INFO	Listening on port 55309
+1641219269325	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1641219270140	Marionette	INFO	Stopped listening on port 55309
+[Parent 26640, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:542
+1641219270652	geckodriver	INFO	Listening on 127.0.0.1:55367
+1641219273744	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55368" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileQ1Ckjh"
+1641219273963	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileQ1Ckjh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55368/devtools/browser/cf8351c4-ee26-4681-8457-986039137930
+1641219275418	Marionette	INFO	Listening on port 55373
+1641219275805	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1641219276754	Marionette	INFO	Stopped listening on port 55373
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641219310584	geckodriver	INFO	Listening on 127.0.0.1:55433
+1641219313657	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55434" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile3l6yDa"
+1641219313923	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile3l6yDa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55434/devtools/browser/19004ba6-199a-408a-a4d6-481c8ca59fe4
+1641219315671	Marionette	INFO	Listening on port 55439
+1641219315719	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1641219316699	Marionette	INFO	Stopped listening on port 55439
+[Parent 29496, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1641219317691	geckodriver	INFO	Listening on 127.0.0.1:55492
+1641219320792	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55493" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileis49cI"
+1641219321004	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileis49cI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55493/devtools/browser/eb9eb619-986b-48a2-8c0f-a8b20ad8398c
+1641219322434	Marionette	INFO	Listening on port 55498
+1641219322851	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1641219350315	Marionette	INFO	Stopped listening on port 55498
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 23784, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641219402075	geckodriver	INFO	Listening on 127.0.0.1:55610
+1641219405151	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55611" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile87vCPO"
+1641219405400	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile87vCPO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55611/devtools/browser/19489bf6-6dcf-4b84-90f5-87a1e22ee30b
+1641219406878	Marionette	INFO	Listening on port 55616
+1641219407216	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1641219408095	Marionette	INFO	Stopped listening on port 55616
+1641219408699	geckodriver	INFO	Listening on 127.0.0.1:55658
+1641219411811	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55659" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileT9K4Ow"
+1641219412027	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileT9K4Ow\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55659/devtools/browser/68ae287f-da45-491f-8225-b37209ece3cd
+1641219413523	Marionette	INFO	Listening on port 55664
+1641219413868	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1641220388995	Marionette	INFO	Stopped listening on port 55664
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+arionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilet19whB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55744/devtools/browser/d50760b6-6441-4d04-a9ee-fe101c5332f7
+1641219450739	Marionette	INFO	Listening on port 55749
+1641219451126	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1641219452041	Marionette	INFO	Stopped listening on port 55749
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641219452658	geckodriver	INFO	Listening on 127.0.0.1:55809
+1641219455733	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55810" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileJhpMnX"
+1641219455944	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileJhpMnX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55810/devtools/browser/211a8cb1-2e5b-4866-bd37-03eb1f190143
+1641219457611	Marionette	INFO	Listening on port 55815
+1641219457792	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1641219459088	Marionette	INFO	Stopped listening on port 55815
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1641219459828	geckodriver	INFO	Listening on 127.0.0.1:55878
+1641219462952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55879" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile04YZyH"
+1641219463173	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile04YZyH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55879/devtools/browser/ae622ef9-78a5-4f2c-9d5f-af64216b7e6a
+1641219464639	Marionette	INFO	Listening on port 55884
+1641219464998	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1641220389019	Marionette	INFO	Stopped listening on port 55884
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+FoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileUJYNod\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55964/devtools/browser/5f8eb0d4-2445-4343-9da3-fe613bca6d8d
+1641219485785	Marionette	INFO	Listening on port 55969
+1641219485956	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1641219486978	Marionette	INFO	Stopped listening on port 55969
+1641219487476	geckodriver	INFO	Listening on 127.0.0.1:56028
+1641219490571	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56029" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile4jWSsn"
+1641219490785	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile4jWSsn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56029/devtools/browser/2120ae44-b844-4a9c-83eb-13741bea6f59
+1641219492557	Marionette	INFO	Listening on port 56034
+1641219492646	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1641219493663	Marionette	INFO	Stopped listening on port 56034
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641219494406	geckodriver	INFO	Listening on 127.0.0.1:56092
+1641219497475	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56093" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofiletRnAKm"
+1641219497688	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofiletRnAKm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56093/devtools/browser/7f7b018b-6ec9-4e6f-8881-54f06d51db07
+1641219499161	Marionette	INFO	Listening on port 56098
+1641219499515	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1641219500466	Marionette	INFO	Stopped listening on port 56098
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641219520967	geckodriver	INFO	Listening on 127.0.0.1:56156
+1641219524039	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56157" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilegpUBrU"
+1641219524510	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilegpUBrU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56157/devtools/browser/78ec6006-0d7f-47c1-801b-34530182d41f
+1641219525981	Marionette	INFO	Listening on port 56162
+1641219526107	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1641219526993	Marionette	INFO	Stopped listening on port 56162
+[Parent 11760, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:542
+1641219528204	geckodriver	INFO	Listening on 127.0.0.1:56225
+1641219531265	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56226" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileRqjsaT"
+1641219531487	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileRqjsaT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56226/devtools/browser/bc91226d-5e13-4ef0-85f6-9459c8cece33
+1641219533168	Marionette	INFO	Listening on port 56231
+1641219533329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1641220389023	Marionette	INFO	Stopped listening on port 56231
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+arionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileBpJd2F\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56470/devtools/browser/f38b09f7-8038-43c1-ad42-767890c012ae
+1641219887712	Marionette	INFO	Listening on port 56475
+1641219888065	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1641220389028	Marionette	INFO	Stopped listening on port 56475
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56591" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilehGIi7O"
+1641219977288	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilehGIi7O\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56591/devtools/browser/4f0a154b-6a94-42fd-993d-492c3b2f7bf4
+1641219978737	Marionette	INFO	Listening on port 56596
+1641219979153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1641220388978	Marionette	INFO	Stopped listening on port 56596
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56673" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileu6Iiga"
+1641220011486	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileu6Iiga\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56673/devtools/browser/63dec538-dd51-4027-8607-0f0bf8cb3bdc
+1641220012957	Marionette	INFO	Listening on port 56678
+1641220013301	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1641220015166	Marionette	INFO	Stopped listening on port 56678
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641220015665	geckodriver	INFO	Listening on 127.0.0.1:56741
+1641220018726	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56742" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofiledb8FWj"
+1641220018936	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofiledb8FWj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56742/devtools/browser/bb2ac6e0-be8e-4d0f-9863-258931c13218
+1641220020401	Marionette	INFO	Listening on port 56747
+1641220020774	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1641220389083	Marionette	INFO	Stopped listening on port 56747
+1220152673	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56836" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileqrB4T1"
+1641220152899	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileqrB4T1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56836/devtools/browser/523b7c66-862b-4720-be7f-d4379953622c
+1641220154409	Marionette	INFO	Listening on port 56841
+1641220154733	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1641220155812	Marionette	INFO	Stopped listening on port 56841
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641220156312	geckodriver	INFO	Listening on 127.0.0.1:56899
+1641220159397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56900" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilet6Crkw"
+1641220159612	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilet6Crkw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56900/devtools/browser/03f8faa2-a52c-4ba4-bbef-f92c95a69965
+1641220161152	Marionette	INFO	Listening on port 56905
+1641220161453	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1641220389029	Marionette	INFO	Stopped listening on port 56905
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "57000" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofiledudkG7"
+1641220220206	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofiledudkG7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57000/devtools/browser/de6c9415-57be-46b1-a314-34505660e451
+1641220221769	Marionette	INFO	Listening on port 57005
+1641220221984	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1641220224028	Marionette	INFO	Stopped listening on port 57005
+1641220224539	geckodriver	INFO	Listening on 127.0.0.1:57070
+1641220227628	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57071" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileL3R1Ug"
+1641220228084	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileL3R1Ug\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57071/devtools/browser/b5032a0b-f801-490e-a382-1f1f6811d580
+1641220229546	Marionette	INFO	Listening on port 57076
+1641220229673	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1641220230616	Marionette	INFO	Stopped listening on port 57076
+[Parent 23332, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641220231117	geckodriver	INFO	Listening on 127.0.0.1:57133
+1641220234213	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57134" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileyoIQYi"
+1641220234440	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileyoIQYi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57134/devtools/browser/10c8d310-3971-422d-8d27-42202463200e
+1641220236044	Marionette	INFO	Listening on port 57140
+1641220236255	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+JavaScript error: https://common.hkjc.com/corporate/scripts/jquery.jsonp-2.1.3.min.js, line 3: NS_ERROR_NOT_INITIALIZED: 
+1641220388978	Marionette	INFO	Stopped listening on port 57140
+te-debugging-port" "57228" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileXhvtn9"
+1641220388650	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileXhvtn9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57228/devtools/browser/d1eeb7ff-2dd0-4be2-b604-e26d96d59967
+1641220390469	Marionette	INFO	Listening on port 57233
+1641220390568	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1641220391613	Marionette	INFO	Stopped listening on port 57233
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641220393097	geckodriver	INFO	Listening on 127.0.0.1:57301
+1641220396188	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57302" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile3Hdhtl"
+1641220396418	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile3Hdhtl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57302/devtools/browser/813b302d-bd41-4155-871c-28e543264567
+1641220397980	Marionette	INFO	Listening on port 57307
+1641220398226	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1641221298931	Marionette	INFO	Stopped listening on port 57307
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
